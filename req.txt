@@ -10,7 +10,7 @@ idna==2.8
 importlib-metadata==0.16
 more-itertools==7.0.0
 pluggy==0.12.0
-py==1.8.0
+py==1.11.0
 pytest==4.5.0
 pytest-cov==2.7.1
 requests==2.22.0
